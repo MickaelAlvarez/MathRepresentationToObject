@@ -1,0 +1,3 @@
+[submodule "InfixToObject"]
+	path = InfixToObject
+	url = https://github.com/MickaelAlvarez/InfixToObject.git

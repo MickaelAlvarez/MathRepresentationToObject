@@ -10,7 +10,14 @@ To apply the first step, the [InfixToObject](https://github.com/MickaelAlvarez/I
 * The priority. A *IElementRepresentation* need to have a priority which is relative to each other *IElementRepresentation*, because this define how to build the *IEquation*.
 * The generated element. Which is the element which will composed the final *IEquation*.
 
-// TODO abstract
+So the workflow looks like :
+
+**External representation ->** *IElementRepresentation* **-> Construction depending on priority ->** *IEquation*
+
+By example we can have :
+
+**"+" ->** *AdderRepresentation* **-> Construction (priority 2) ->** *Adder*
+
 
 ## Implemented Operators
 There are the implemented operators, respectively with, their corresponding symbol, their object representation, and their priority.

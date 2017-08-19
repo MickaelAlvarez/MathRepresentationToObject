@@ -18,3 +18,10 @@ There are the implemented operators, respectively with, their corresponding symb
 Symbol | Representation | Constructed | Priority
 -------|----------------|-------------|---------
 "number" | ValueRepresentation | ValueOperator | 0
+"(" | OpeningParenthesisRepresentation | none | 1
+")" | ClosingParenthesisRepresentation | none | 1
+"+" | AdderRepresentation | Adder | 2
+"-" | SubtractorRepresentation | Subtractor | 2
+"*" | MultiplierRepresentation | Multiplier | 4
+"/" | DivisorRepresentation | Divisor | 4
+"^" | ExponentRepresentation | Exponent | 6

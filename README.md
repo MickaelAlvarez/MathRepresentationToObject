@@ -1,4 +1,4 @@
-!https://travis-ci.org/MickaelAlvarez/MathRepresentationToObject.svg?branch=master!:https://travis-ci.org/MickaelAlvarez/MathRepresentationToObject
+[![Build Status](https://travis-ci.org/MickaelAlvarez/MathRepresentationToObject.svg?branch=master)](https://travis-ci.org/MickaelAlvarez/MathRepresentationToObject)
 # MathRepresentationToObject
 This project is a library developed for java object developers. It provide a way to easily manipulate infix mathematical equations.
 

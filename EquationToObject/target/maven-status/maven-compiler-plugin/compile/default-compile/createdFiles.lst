@@ -1,0 +1,13 @@
+fr/mickmouette/representation/OpeningParenthesisRepresentation.class
+fr/mickmouette/generated/Multiplier.class
+fr/mickmouette/generated/Exponent.class
+fr/mickmouette/generated/Adder.class
+fr/mickmouette/representation/DivisorRepresentation.class
+fr/mickmouette/representation/AdderRepresentation.class
+fr/mickmouette/generated/Subtractor.class
+fr/mickmouette/representation/SubtractorRepresentation.class
+fr/mickmouette/representation/ValueRepresentation.class
+fr/mickmouette/representation/ExponentRepresentation.class
+fr/mickmouette/representation/MultiplierRepresentation.class
+fr/mickmouette/generated/Divisor.class
+fr/mickmouette/representation/ClosingParenthesisRepresentation.class
